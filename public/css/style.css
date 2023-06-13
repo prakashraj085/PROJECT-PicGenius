@@ -133,7 +133,7 @@ img {
   .showcase form input,
   form select {
     width: 100%;
-    max-width: 300px;
+    max-width: 100%;
   }
 }
 
