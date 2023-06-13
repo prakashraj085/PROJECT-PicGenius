@@ -136,8 +136,8 @@ img {
     max-width: 300px;
   }
 
-  .image{
-    width: 100%;
-    max-width: 300px;
+  .image {
+    margin: 1rem auto;
   }
 }
+
