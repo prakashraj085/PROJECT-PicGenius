@@ -115,3 +115,24 @@ img {
   text-align: center;
   margin-top: 1rem;
 }
+
+/* Mobile View */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+
+  .navbar ul li {
+    margin-left: 0.5rem;
+  }
+
+  .showcase h1 {
+    font-size: 2rem;
+  }
+
+  .showcase form input,
+  form select {
+    width: 100%;
+    max-width: 300px;
+  }
+}
