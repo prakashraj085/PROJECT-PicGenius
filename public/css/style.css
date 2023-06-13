@@ -120,7 +120,6 @@ img {
 @media (max-width: 768px) {
   body {
     font-size: 14px;
-    width:100%;
   }
 
   .navbar ul li {
@@ -134,28 +133,11 @@ img {
   .showcase form input,
   form select {
     width: 100%;
-    max-width: 100%;
+    max-width: 300px;
   }
-}
 
-/* Tablet View */
-@media (min-width: 769px) and (max-width: 1024px) {
-  body {
-    font-size: 16px;
+  .image{
     width: 100%;
-  }
-
-  .navbar ul li {
-    margin-left: 1rem;
-  }
-
-  .showcase h1 {
-    font-size: 2.5rem;
-  }
-
-  .showcase form input,
-  form select {
-    width: 100%;
-    max-width: 100%;
+    max-width: 300px;
   }
 }
