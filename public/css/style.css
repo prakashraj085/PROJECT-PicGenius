@@ -120,6 +120,7 @@ img {
 @media (max-width: 768px) {
   body {
     font-size: 14px;
+    width:100%;
   }
 
   .navbar ul li {
@@ -141,6 +142,7 @@ img {
 @media (min-width: 769px) and (max-width: 1024px) {
   body {
     font-size: 16px;
+    width: 100%;
   }
 
   .navbar ul li {
